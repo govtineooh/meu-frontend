@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>Power BI Embed</title>
-  <script src="https://govtineooh.github.io/meu-frontend/"></script>
+  <script src="https://cdn.powerbi.com/libs/powerbi-client/2.18.5/powerbi.min.js"></script>
 </head>
 <body>
   <h2>Relatório Power 2BI</h2>
